@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import React from 'react' 
 
 
@@ -13,18 +14,18 @@ return (
 
   <h1 className="text-white text-2xl sm:text-5xl lg:text-7xl font-extrabold">
     <span className="primary-color">
-     Hi, I'm 
+     Hi, I&apos;m 
     </span>
     <br />
    Muhammad Talha
   </h1>
   <p className="text-white sm:text-lg my-6 lg:text-xl">
-  Hi, I'm <span className='primary-color'>M. Talha</span>, a passionate front-end developer, constantly learning and building innovative projects that bring ideas to life through clean, dynamic code.
+  Hi, I&apos;m <span className='primary-color'>M. Talha</span>, a passionate front-end developer, constantly learning and building innovative projects that bring ideas to life through clean, dynamic code.
 </p>
 <div className='my-8'>
-  <a href="/" className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
+  <Link href="/" className="px-6 py-3 w-full rounded-xl mr-4 bg-gradient-to-br from-orange-500 to-pink-500 text-white">
   To Hire/For Projects
-  </a>
+  </Link>
   
 </div>
 </div>

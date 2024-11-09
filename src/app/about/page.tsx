@@ -15,7 +15,7 @@ const About = () => {
           <div className="my-5 mx-6">
             <h2 className="text-4xl font-bold mb-4 primary-color">About Me</h2>
             <p className="text-base text-white lg:text-lg">
-            I'm M. Talha, a front-end developer deeply passionate about creating intuitive, user-centered web experiences. With a good foundation in HTML, CSS, JavaScript, React.js, and Next.js, I bring designs to life by building fast, responsive, and interactive websites. My approach combines a strong technical background with an eye for aesthetics, ensuring that every project I work on is both functional and visually appealing.
+            I&apos;m M. Talha, a front-end developer deeply passionate about creating intuitive, user-centered web experiences. With a good foundation in HTML, CSS, JavaScript, React.js, and Next.js, I bring designs to life by building fast, responsive, and interactive websites. My approach combines a strong technical background with an eye for aesthetics, ensuring that every project I work on is both functional and visually appealing.
             <br /><br />
 Driven by a continuous desire to learn and evolve, I stay up-to-date with the latest industry trends and technologies, always seeking opportunities to refine my skills. Whether it’s developing from scratch or enhancing existing applications, my goal is to deliver solutions that elevate user experiences and meet the highest standards of modern web development.
             </p>

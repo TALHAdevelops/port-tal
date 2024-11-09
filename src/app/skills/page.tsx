@@ -51,7 +51,7 @@ const Skills = () => {
 <br />
 <div>
      <p className='text-white px-10 font-semibold text-lg'>
-     "I'm a dedicated front-end developer with expertise in HTML, CSS, JavaScript, React.js, and Next.js. I specialize in creating responsive, high-performance web applications with a focus on clean design and seamless user experiences. My goal is to continuously improve and deliver efficient, scalable solutions that meet modern web development standards."
+     &quot;I&apos;m a dedicated front-end developer with expertise in HTML, CSS, JavaScript, React.js, and Next.js. I specialize in creating responsive, high-performance web applications with a focus on clean design and seamless user experiences. My goal is to continuously improve and deliver efficient, scalable solutions that meet modern web development standards.&quot;
      </p>
      </div>
 </div>
